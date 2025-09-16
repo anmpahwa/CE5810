@@ -5,6 +5,7 @@ parts:
   - caption: Contents
     chapters:
     - file: content/lecture_01.ipynb
+    - file: content/lecture_03.ipynb
     - file: references.md
     - file: changelog.md
     - file: credits.md
