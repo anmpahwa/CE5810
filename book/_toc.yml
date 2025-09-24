@@ -5,5 +5,7 @@ parts:
   - caption: Contents
     chapters:
     - file: content/lecture_01.ipynb
+    - file: content/lecture_02.ipynb
     - file: content/lecture_03.ipynb
+    - file: content/lecture_04.ipynb
     - file: credits.md
